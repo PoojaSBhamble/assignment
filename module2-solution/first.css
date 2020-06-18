@@ -1,0 +1,37 @@
+@media(min-width:992){
+ 
+
+}
+@media(min-width:768) and (max-width:991){
+
+}
+@media(max-width:767){
+           
+}
+#box{background-color:blue;
+     padding:10px 10px 10px 10px;
+     border:5px solid black;
+     margin:40px;
+     width=400px;
+     box-sizing:border-box;
+ }
+h1{
+  margin-bottom:15px;
+  
+}
+.row{
+ width:100%;
+}
+p{
+   border:1px solid black;
+   background-color:white;
+   width:90%;
+   height:150px;
+   margin-right:auto;
+   margin-left:auto;
+   font-family:Helvetica;
+  color:black;
+}
+body{
+ background-color:grey;
+}
